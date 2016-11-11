@@ -14,7 +14,7 @@
     "hyper",
     "vim"
   ],
-  "author": "Anzumana Taal",
+  "author": "Anzumana Taal <anzumana.taal@gmail.com> (http://anzumana.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Anzumana/vim-hyper-stylematch/issues"
