@@ -1,0 +1,23 @@
+{
+  "name": "vim-hyper-stylematch",
+  "version": "0.0.1",
+  "description": "hyper extention to automatically match styles between vim and hyper.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anzumana/vim-hyper-stylematch.git"
+  },
+  "keywords": [
+    "hyper",
+    "vim"
+  ],
+  "author": "Anzumana Taal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anzumana/vim-hyper-stylematch/issues"
+  },
+  "homepage": "https://github.com/Anzumana/vim-hyper-stylematch#readme"
+}
